@@ -6,6 +6,6 @@ This is a guide to setup Git and Github on Windows:
 4. Save the public key in your GitHub account settings (**Settings** > **SSH and GPG Keys** > **New SSH key**).
 5. Clone the current repository with Github Desktop
 6. Scaricate la mia modifica (pull)
-7. provate a vedere cosa ho modificato
+7. provate a vedere cosa ho modificato ora
  
 # added new content
